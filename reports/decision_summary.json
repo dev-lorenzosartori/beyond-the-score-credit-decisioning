@@ -1,0 +1,21 @@
+{
+  "champion": "Calibrated Gradient Boosting",
+  "validation_selection_metric": "value_units_per_100_applications",
+  "test_expected_value_policy": {
+    "approval_rate": 0.6475,
+    "expected_bad_rate": 0.08108108108108104,
+    "value_units_per_100_applications": 17179.242142857136,
+    "value_95_ci": [
+      8127.307760285386,
+      25506.96503558718
+    ]
+  },
+  "scenario": {
+    "source_bad_rate": 0.3,
+    "target_bad_rate": 0.15,
+    "good_margin_rate": 0.18,
+    "loss_given_default": 0.65,
+    "operating_cost_units": 50.0,
+    "amount_warning": "Amount is an historical transformed proxy; values are illustrative, not currency forecasts."
+  }
+}

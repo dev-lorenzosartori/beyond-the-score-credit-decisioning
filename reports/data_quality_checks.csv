@@ -1,0 +1,8 @@
+check,observed,expected,passed
+rows,1000,1000,True
+columns_after_derivation,22,22,True
+missing_cells,0,0,True
+duplicate_rows,0,0,True
+bad_credit_rows,300,300,True
+model_features,17,17,True
+audit_only_features,3,3,True
