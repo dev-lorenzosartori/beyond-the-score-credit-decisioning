@@ -1,0 +1,11 @@
+bin,n,mean_predicted_bad,observed_bad_rate,model
+0,40,0.05143188239978023,0.075,Logistic Regression
+1,40,0.13072537413574953,0.2,Logistic Regression
+2,40,0.24479587906207634,0.325,Logistic Regression
+3,40,0.4277002838780536,0.275,Logistic Regression
+4,40,0.7096043862824895,0.625,Logistic Regression
+0,40,0.09816299115207064,0.075,Calibrated Gradient Boosting
+1,40,0.17921930997330165,0.15,Calibrated Gradient Boosting
+2,40,0.29349185994272997,0.3,Calibrated Gradient Boosting
+3,40,0.42066529623685794,0.3,Calibrated Gradient Boosting
+4,40,0.5830407410388108,0.675,Calibrated Gradient Boosting

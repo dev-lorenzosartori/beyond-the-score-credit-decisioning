@@ -1,0 +1,13 @@
+model,split,policy,approval_rate,expected_bad_rate,value_units_per_100_applications,approved_rows
+Logistic Regression,validation,Approve all,1.0,0.14999999999999997,6907.438571428576,200
+Logistic Regression,validation,Fixed PD cutoff,0.6310714285714284,0.04753820033955856,21315.146785714285,111
+Logistic Regression,validation,Expected-value policy,0.6725,0.05204460966542749,24863.862499999992,119
+Logistic Regression,test,Approve all,1.0,0.14999999999999997,5263.707857142856,200
+Logistic Regression,test,Fixed PD cutoff,0.6307142857142857,0.09513023782559453,12457.486428571427,118
+Logistic Regression,test,Expected-value policy,0.7,0.08928571428571429,15656.019285714281,130
+Calibrated Gradient Boosting,validation,Approve all,1.0,0.14999999999999997,6907.438571428576,200
+Calibrated Gradient Boosting,validation,Fixed PD cutoff,0.5289285714285714,0.04726536124240377,19564.615357142855,93
+Calibrated Gradient Boosting,validation,Expected-value policy,0.6578571428571427,0.049402823018458185,27241.948571428562,116
+Calibrated Gradient Boosting,test,Approve all,1.0,0.14999999999999997,5263.707857142856,200
+Calibrated Gradient Boosting,test,Fixed PD cutoff,0.562142857142857,0.07115628970775094,15025.618571428566,102
+Calibrated Gradient Boosting,test,Expected-value policy,0.6475,0.08108108108108104,17179.242142857136,119
